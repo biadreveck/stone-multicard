@@ -1,1 +1,1 @@
-web: multicard -migrate 
+web: multicard
